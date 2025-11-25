@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "15870836169",
+    "project_id": "antivirus-application",
+    "storage_bucket": "antivirus-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15870836169:android:84db50ba425709fa847c18",
+        "android_client_info": {
+          "package_name": "com.example.antivirus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_LFjwviYxeEf9bz4-h47gVT8f_8Yx0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15870836169:android:0e4512e6b0166c7f847c18",
+        "android_client_info": {
+          "package_name": "com.example.antivirusnik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_LFjwviYxeEf9bz4-h47gVT8f_8Yx0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15870836169:android:d1bc70e78144c4e1847c18",
+        "android_client_info": {
+          "package_name": "com.example.zv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_LFjwviYxeEf9bz4-h47gVT8f_8Yx0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
